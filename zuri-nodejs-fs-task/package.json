@@ -1,0 +1,33 @@
+{
+  "name": "result",
+  "version": "1.0.0",
+  "description": "Creating a script file that fetches data from JSON PLACEHOLDER POSTS and Writing the JSON data gotten from the API to a posts.json file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OkiemuteGold/Zuri-nodejs-fs-task.git"
+  },
+  "keywords": [
+    "file system module",
+    "path module",
+    "fetch data",
+    "write json data"
+  ],
+  "author": "Okiemute Gold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OkiemuteGold/Zuri-nodejs-fs-task/issues"
+  },
+  "homepage": "https://github.com/OkiemuteGold/Zuri-nodejs-fs-task#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
